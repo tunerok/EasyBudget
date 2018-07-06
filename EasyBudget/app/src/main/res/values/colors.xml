@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bkg_jam">#c97691</color>
+    <color name="bkg_water">#76c9ae</color>
+    <color name="bkg_color1">#88cfd0</color>
+    <color name="bkg_color2">#88abd0</color>
+    <color name="bkg_color3">#88d0ad</color>
+    <color name="bkg_main_water">#ffffc4</color>
+    <color name="bkg_jam_true">#c4c4ff</color>
+    <color name="Black">#8a000000</color>
+    <color name="Blacked_2">#ff212121</color>
+    <color name="White_my">#ffffffff</color>
+</resources>

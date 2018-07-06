@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">EasyBudget</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_welcome">Welcome to EasyB!</string>
+    <string name="str_log_in">Log In</string>
+    <string name="Register" />
+    <string name="str_reg">Регистрация</string>
+    <string name="log_in">Войти</string>
+    <string name="str_need_reg">Регистрация нового пользователя</string>
+    <string name="name_person">Логин</string>
+    <string name="pass_need">Пароль</string>
+    <string name="rep_pass">Повторите пароль</string>
+    <string name="show_pass">Показать пароли</string>
+    <string name="hide_pass" />
+    <string name="hide_pass_1">Скрыть пароль</string>
+    <string name="str_ok">OK</string>
+    <string name="str_back">Назад</string>
+    <string name="show_pass2">Не скрывать пароль</string>
+    <string name="btn_back11">Назад</string>
+    <string name="btn_forward">Вперед</string>
+
+    <string-array name="List_comp">
+        <item>Операции с текущим бюджетом</item>
+        <item>Сформировать..</item>
+        <item>Операции с бюджетами</item>
+        <item>Выйти</item>
+    </string-array>
+    <string-array name="List_1">
+        <item>Переключиться на другой бюджет</item>
+        <item>Создать новый бюджет</item>
+        <item>Удалить текущий бюджет</item>
+    </string-array>
+    <string-array name="List_2">
+        <item>Выписка по текущему месяцу</item>
+        <item>Прогноз</item>
+    </string-array>
+
+</resources>
